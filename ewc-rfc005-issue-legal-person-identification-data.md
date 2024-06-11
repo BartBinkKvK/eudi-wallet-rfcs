@@ -23,13 +23,13 @@ The EWC LSP must align with the standard protocol for issuing LPID from trusted 
 
 The LPID issuance process is implemented by PID providers according to national law. The process may differ between member states but some verifications must be implemented in an LPID issuance process across all PID Providers. These verifications include:
 
-1. **Authentication:** The natural person requesting a LPID on behalf of a legal person must ne authenticated using LoA High.
+1. **Authentication:** The natural person requesting a LPID on behalf of a legal person must be authenticated using LoA High.
 
 2. **Authorization:** The representative rights of the natural person requesting a LPID must be verified.
 
 3. **Signing:** The natural person requesting a LPID might have to sign the LPID application. This step is **optional** and only applies if regulated in national law.
 
-4. **Status:** The status of the legal person must be verified. These states are not yet regulated, but at the very least, the legal person for which an LPID is requested must be registered at a business register.
+4. **Status:** The status of the legal person must be verified. These states are not yet regulated, but at the very least, the legal person for which an LPID is requested must be registered at a business register as a owner or board member.
 
 The issuance process can either start in:
 1. a wallet application, the grahical user interface of the wallet *or*
